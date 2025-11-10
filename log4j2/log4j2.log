@@ -93,3 +93,11 @@
 [INFO ] 2025-11-07 10:49:54 [main] (Login.java:20) - Enter password
 [INFO ] 2025-11-07 11:00:24 [main] (Login.java:18) - Enter phone number
 [INFO ] 2025-11-07 11:00:25 [main] (Login.java:20) - Enter password
+[INFO ] 2025-11-10 06:47:03 [main] (SwagLogin_StepDef.java:21) - Enter phone number
+[INFO ] 2025-11-10 06:47:03 [main] (SwagLogin_StepDef.java:23) - Enter password
+[INFO ] 2025-11-10 06:47:09 [main] (Login.java:18) - Enter phone number
+[INFO ] 2025-11-10 06:47:09 [main] (Login.java:20) - Enter password
+[INFO ] 2025-11-10 07:55:54 [main] (SwagLogin_StepDef.java:21) - Enter phone number
+[INFO ] 2025-11-10 07:55:54 [main] (SwagLogin_StepDef.java:23) - Enter password
+[INFO ] 2025-11-10 07:56:00 [main] (Login.java:18) - Enter phone number
+[INFO ] 2025-11-10 07:56:00 [main] (Login.java:20) - Enter password
